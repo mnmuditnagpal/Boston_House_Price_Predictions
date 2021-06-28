@@ -5,7 +5,9 @@ There are 506 variables and 13 features in the dataset.
 The objective of the project is to predict House Price using the given features.
 
 Data Analysis: Pandas, Numpy, Scipy & Statsmodels 
+
 Visualization: Matplotlib & Seaborn
+
 Data Modelling: Sklearn
 
 ML Technique: Linear Regression
