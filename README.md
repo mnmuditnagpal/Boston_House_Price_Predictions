@@ -11,3 +11,6 @@ Visualization: Matplotlib & Seaborn
 Data Modelling: Sklearn
 
 ML Technique: Linear Regression
+
+IDE: Jupyter Notebook
+
